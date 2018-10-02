@@ -106,7 +106,7 @@ h1 {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     position: relative;
-    top: -10px;
+    top: 10px;
 }
 
 .footer {
